@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "NW.js Example",
+  "main": "index.html",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominhhai/nw-examples.git"
+  },
+  "keywords": [
+    "NW.js"
+  ],
+  "author": "Hai Do Minh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominhhai/nw-examples/issues"
+  },
+  "homepage": "https://github.com/dominhhai/nw-examples#readme"
+}
